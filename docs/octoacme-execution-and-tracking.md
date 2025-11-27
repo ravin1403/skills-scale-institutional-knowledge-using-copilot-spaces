@@ -33,6 +33,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+## PR & Release Checklists
+
+Standardized checklists help ensure consistency and quality across the team.
+
+- **[PR Checklist](./pr-checklist.md)**: Use when creating pull requests. Copy the checklist into your PR description before requesting review.
+- **[Release Checklist](./release-checklist.md)**: Use during release windows. The Release Manager or PM should follow this checklist for each deployment.
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
