@@ -31,15 +31,17 @@ Closes #
 
 ## Changes Made
 <!-- List the key changes in this PR -->
-- 
+- Change 1
+- Change 2
 
 ## Acceptance Criteria
 <!-- Copy acceptance criteria from the issue -->
-- [ ] 
+- [ ] Criteria 1
+- [ ] Criteria 2
 
 ## Testing
 <!-- Describe how you tested these changes -->
-- 
+- Tested by...
 
 ## Checklist
 - [ ] Issue linked

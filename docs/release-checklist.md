@@ -69,14 +69,14 @@ If deployment fails or causes critical issues:
 
 Who should be informed for different release types:
 
-| Stakeholder Group     | Patch | Minor | Major |
-|-----------------------|:-----:|:-----:|:-----:|
-| Engineering Team      | ✓     | ✓     | ✓     |
-| Product Manager       | ✓     | ✓     | ✓     |
-| Support/Customer Success | ✓  | ✓     | ✓     |
-| Stakeholders/Leadership |      | ✓     | ✓     |
-| External Users/Customers |     |       | ✓     |
-| Marketing/Comms       |       |       | ✓     |
+| Stakeholder Group        | Patch | Minor | Major |
+|--------------------------|:-----:|:-----:|:-----:|
+| Engineering Team         | ✓     | ✓     | ✓     |
+| Product Manager          | ✓     | ✓     | ✓     |
+| Support/Customer Success | ✓     | ✓     | ✓     |
+| Stakeholders/Leadership  |       | ✓     | ✓     |
+| External Users/Customers |       |       | ✓     |
+| Marketing/Comms          |       |       | ✓     |
 
 ---
 
